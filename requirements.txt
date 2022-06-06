@@ -1,0 +1,9 @@
+pytest
+pytest-bdd
+pytest-xdist
+pytest-html
+pytest-json-report
+pytest-stress
+pytest-benchmark
+pytest-benchmark[histogram]
+requests
